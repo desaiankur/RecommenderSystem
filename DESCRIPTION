@@ -1,0 +1,11 @@
+Package: RecommenderSystem
+Type: Package
+Title: Recommender System
+Version: 0.1.0
+Author: Ankur Desai
+Maintainer: The package maintainer <adesai11@binghamton.edu>
+Description: Predicts the rating of a item for all users using 
+    user collaborative filtering
+License: 
+Encoding: UTF-8
+LazyData: true
